@@ -1,7 +1,0 @@
-C:/Users/Maxim/Documents/VR/myProj/build/CMakeFiles/MyProj.dir
-C:/Users/Maxim/Documents/VR/myProj/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Maxim/Documents/VR/myProj/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/Maxim/Documents/VR/myProj/build/external/glfw/CMakeFiles/ALL_BUILD.dir
-C:/Users/Maxim/Documents/VR/myProj/build/external/glfw/src/CMakeFiles/glfw.dir
-C:/Users/Maxim/Documents/VR/myProj/build/external/glad/CMakeFiles/glad.dir
-C:/Users/Maxim/Documents/VR/myProj/build/external/glad/CMakeFiles/ALL_BUILD.dir
